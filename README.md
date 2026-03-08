@@ -10,7 +10,7 @@ The user can also select the **type of transport (car, bus, two-wheeler, walking
 ## 🏗️ Tech Stack
 
 - **Language:** Python  
-- **Graph Data:** OpenStreetMap (via OSMnx)  
+- **Graph Data:** OpenStreetMap (via OSMnx) 
 - **Graph Algorithm:** Dijkstra / Uniform Cost Search (via NetworkX)  
 - **Map Visualization:** Folium  
 - **Geolocation:** OSMnx Geocoder  
